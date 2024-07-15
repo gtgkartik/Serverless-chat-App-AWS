@@ -1,8 +1,6 @@
-# ServerLess Chat Application Using AWS
-![Cloud Kartik Project PPT](https://github.com/user-attachments/assets/7626ba3a-6598-4507-9a3c-3a9a32449664)
-
 # What is Serverless ? 
 ![Slide2](https://github.com/user-attachments/assets/d154795c-f7b1-4aa8-ade8-37ae4d1bdd1e)
+Serverless computing is a cloud computing execution model where the cloud provider automatically manages the infrastructure for running applications. This model allows developers to focus on writing code without worrying about server management tasks.
 
 # Serverless vs. Server-Based Apps: Trade-Offs
 | Factor                  | Serverless                                      | Server-Based                                      |
